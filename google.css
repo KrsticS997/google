@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: right;
+    padding: 25px 10px;
+    font-size: 14px;
+}
+li a{
+    display: inline;
+    text-decoration: none;
+    color: grey;
+}
+img{
+    position: relative;
+    top: 90px;
+    left: 580px;
+}
+a.dugme{
+    background: blue ;
+    color: white;
+    text-decoration: bold;
+    padding: 13px;
+    border-radius: 15px;
+}
+.fa-th{
+    color: gray;
+    font-size: 20px;
+}
+.divic{
+    position: absolute;
+    top: 270px;
+    left: 420px;
+}
+.input{
+    border-radius: 30px;
+    border: 1px solid darkgrey;
+    font-size: 15px;
+    padding: 10px 40px;
+}
+.fa-search{
+    position: relative;
+    left: 30px;
+}
+.fa-microphone{
+    position: relative;
+    right: 33px;
+    top: 5px;
+    color: mediumvioletred;
+    font-size: 25px;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color: black;
+}
+.dugmad{
+    position: relative;
+    top: 170px;
+    left: 640px;
+    background-color: lightgrey;
+    padding: 10px;
+    border: 1px solid white;
+    color: grey;
+    border-radius: 8px;
+    text-decoration: none;
+}
+p{
+    position: relative;
+    top: 363px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: gray;
+    font-size: 17px;
+    background: whitesmoke;
+    border: 1px solid lightgrey;
+}
+select{
+    position: relative;
+    top: 210px;
+    left: 490px;
+}
+.lista{
+    position: relative;
+    top:361px;
+    color: gray;
+    background: whitesmoke;
+    border: 1px solid lightgrey;
+}
